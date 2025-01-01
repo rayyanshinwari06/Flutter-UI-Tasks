@@ -13,8 +13,13 @@ class UiTasks extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Foodappui(),
-      // Instagram(),
+      // home: Foodappui(),
+      Instagram(),
     );
   }
 }
+// git init
+// git add .
+// git commit -m  "message"
+// path
+// git push origin main
